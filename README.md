@@ -25,3 +25,5 @@
 </div>
 
 ---
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/SabinKSanthosh?theme=dark&font=Inter&ext=heatmap)
