@@ -11,6 +11,9 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sabinksanthosh?theme=catppuccinMocha&font=Inter&ext=heatmap)
 
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Empire-SK&theme=dark" alt="GitHub Streak" /></a>
+
 </div>
 
 <div align="center">
