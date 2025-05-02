@@ -20,13 +20,13 @@
 
 ### 🤝 Let's Connect
   
-  <a href="https://www.linkedin.com/in/sabin-k-santhosh" target="_blank">
+  <a href="https://www.linkedin.com/in/sabin-k-santhosh" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/sabinksanthosh" target="_blank">
+  <a href="https://twitter.com/sabinksanthosh" target="blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://discordapp.com/users/empire35" target="_blank">
+  <a href="https://discordapp.com/users/empire35" target="blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
