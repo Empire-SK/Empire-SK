@@ -14,6 +14,8 @@
 
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Empire-SK&theme=dark" alt="GitHub Streak" /></a> -->
 
+<img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=Empire-SK&theme=react-dark"/>
+
 </div>
 
 <div align="center">
