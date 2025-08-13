@@ -2,8 +2,10 @@
 <h2 align="center">A Front-End Developer</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabinksanthosh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabinksanthosh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+<img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=sabinksanthosh&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%23137a29%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23be2545%22%7D" alt="GitHub Streak" />
+<br>
+<img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=sabinksanthosh&theme=react-dark"/>
 
 ### 🛠️ Tech Stack !!
 
@@ -12,8 +14,6 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sabinksanthosh?theme=catppuccinMocha&font=Inter&ext=heatmap)
 
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Empire-SK&theme=dark" alt="GitHub Streak" /></a> -->
-
-<img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=sabinksanthosh&theme=react-dark"/>
 
 </div>
 
