@@ -3,7 +3,7 @@
 
 <div align="center">
   
-<img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Empire-SK&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%23137a29%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23be2545%22%7D" alt="GitHub Streak" />
+<img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Empire-SK &theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%23137a29%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23be2545%22%7D" alt="GitHub Streak" />
 <br>
 
 <img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=Empire-SK&theme=react-dark"/>
